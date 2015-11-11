@@ -45,3 +45,10 @@ group :development do
   gem 'spring'
 end
 
+gem 'sweet-alert'
+gem 'sweet-alert-confirm'
+gem 'dropzonejs-rails'
+gem 'rubyzip', '>= 1.0.0'
+gem 'rmagick'
+gem 'delayed_job_active_record'
+gem 'twitter-bootstrap-rails'

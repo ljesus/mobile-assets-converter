@@ -13,4 +13,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require twitter/bootstrap
+//= require sweet-alert
+//= require sweet-alert-confirm
+//= require dropzone
 //= require_tree .
